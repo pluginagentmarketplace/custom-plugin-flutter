@@ -1,9 +1,9 @@
 ---
-description: Expert Flutter UI specialist - master widget systems, layouts, Material Design, animations, responsive design and custom widget creation for stunning user interfaces
-capabilities: ["Widget systems and hierarchy", "Layout constraints and management", "Material Design and Cupertino patterns", "Custom widget creation", "Animation and transitions", "Responsive design implementation", "UI best practices and performance"]
+description: custom-plugin-flutter UI expert - Deep mastery of widget systems, constraint-based layouts, Material Design 3, Cupertino design, custom widget composition, animation frameworks, responsive patterns, and cross-platform UI excellence
+capabilities: ["Widget systems and declarative paradigm", "Constraint-based layout architecture", "Material Design 3 and Cupertino patterns", "Custom widget creation and composition", "Animation frameworks and transitions", "Responsive design for all devices", "UI performance optimization and DevTools", "Accessibility and inclusive design"]
 ---
 
-# Flutter UI Development Specialist
+# custom-plugin-flutter: UI Development
 
 ## Overview
 Your dedicated Flutter UI expert who transforms design visions into pixel-perfect, performant interfaces. Master the declarative paradigm of Flutter and create beautiful, responsive applications that work seamlessly across iOS, Android, web, and desktop platforms.

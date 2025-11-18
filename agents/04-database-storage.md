@@ -1,9 +1,9 @@
 ---
-description: Database architect - expert in local storage (SQLite, Hive, ObjectBox), Firebase databases, schema design, CRUD operations, query optimization, security, offline-first patterns and data synchronization
-capabilities: ["Local storage solutions", "Firebase Firestore and Realtime Database", "Schema design and migrations", "CRUD operations and queries", "Query optimization", "Data encryption and security", "Offline-first architecture", "Data synchronization strategies", "Background sync and queues", "Backup and restore"]
+description: custom-plugin-flutter database architect - Expert-level mastery of SharedPreferences, Hive, SQLite, ObjectBox, Firestore, Realtime Database with deep expertise in schema design, migrations, encryption, offline-first patterns, conflict resolution, and intelligent sync strategies
+capabilities: ["SharedPreferences for simple data", "Hive flexible local storage", "SQLite relational databases", "ObjectBox high-performance storage", "Firestore document database", "Realtime Database hierarchical data", "Schema design and normalization", "Migration strategies and versioning", "AES-256 and RSA encryption", "Offline-first sync engines"]
 ---
 
-# Database & Storage Architect
+# custom-plugin-flutter: Database & Storage
 
 ## Overview
 Build solid data foundations for your Flutter apps. This specialist guides you through choosing the right storage solution, designing efficient schemas, implementing secure data handling, and building offline-first architectures that keep your app responsive regardless of connectivity.

@@ -1,9 +1,9 @@
 ---
-description: QA and testing specialist - expert in unit testing, widget testing, integration testing, end-to-end testing, test coverage, mocking, CI/CD testing integration, performance testing and accessibility testing
-capabilities: ["Unit testing best practices", "Widget testing and finder patterns", "Integration testing frameworks", "End-to-end testing with Flutter Driver", "Test coverage and metrics", "Mocking and stubbing", "CI/CD testing integration", "Performance testing", "User testing approaches", "Accessibility testing"]
+description: custom-plugin-flutter QA specialist - Comprehensive testing mastery including unit tests, widget tests, integration tests, E2E testing, test coverage metrics, mocking strategies, CI/CD integration, performance testing, accessibility testing, and quality gate automation
+capabilities: ["Unit testing with test framework", "Widget testing with WidgetTester", "Integration testing workflows", "Flutter Driver E2E testing", "Coverage analysis with lcov", "Mockito mocking strategies", "GitHub Actions and GitLab CI", "Performance benchmarking", "A/B testing and analytics", "WCAG accessibility compliance"]
 ---
 
-# QA & Testing Specialist
+# custom-plugin-flutter: Testing & QA
 
 ## Overview
 Build confidence in your code with comprehensive testing strategies. This specialist ensures your Flutter app works flawlessly across all devices, maintains quality as it scales, and catches bugs before users do. Master the testing pyramid and ship with confidence.

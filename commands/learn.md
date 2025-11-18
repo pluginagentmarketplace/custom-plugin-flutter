@@ -1,40 +1,45 @@
-# Learn Flutter Development
+# custom-plugin-flutter: Learn
 
-Start your Flutter learning journey with structured paths for all skill levels.
+Structured learning paths for mastering Flutter development at your pace.
+
+## Learning Progression
+
+```
+Beginner (0-6 months)
+├─ Flutter Fundamentals
+├─ Dart Language
+├─ Widget Systems
+├─ Basic State Management (setState)
+└─ Simple App Projects
+
+Intermediate (6-12 months)
+├─ Advanced State Management (Provider, Riverpod)
+├─ API Integration (REST, GraphQL)
+├─ Local & Cloud Databases
+├─ Authentication & Security
+└─ Production App Projects
+
+Advanced (12+ months)
+├─ Performance Optimization
+├─ Enterprise Architecture
+├─ Testing & QA Automation
+├─ CI/CD & DevOps
+└─ Team Leadership & Scaling
+```
 
 ## Quick Start
 
-Choose your learning path:
-
-```
-1. **Beginner Path** (0-6 months)
-   - Flutter fundamentals
-   - Dart basics
-   - Simple apps
-   - Agent: 01-Flutter UI Development
-
-2. **Intermediate Path** (6-12 months)
-   - State management
-   - API integration
-   - Database design
-   - Agents: 02, 03, 04
-
-3. **Advanced Path** (12+ months)
-   - Performance optimization
-   - Complex architectures
-   - Testing strategies
-   - DevOps automation
-   - Agents: 05, 06, 07
-```
+- **New to Flutter?** Start with `/custom-plugin-flutter: Learn` → Beginner Path
+- **Have some experience?** → Intermediate Path
+- **Enterprise developer?** → Advanced Path
 
 ## Recommended Resources
 
-- [Flutter Official Docs](https://flutter.dev/docs)
-- [Dart Language Tour](https://dart.dev/guides/language/language-tour)
-- [Flutter Codelabs](https://flutter.dev/docs/codelabs)
-- [Provider Package](https://pub.dev/packages/provider)
-- [Riverpod Package](https://riverpod.dev/)
+- [Flutter Official Docs](https://flutter.dev)
+- [Dart Language Guide](https://dart.dev)
+- [Flutter Codelabs](https://flutter.dev/codelabs)
+- [Pub.dev Packages](https://pub.dev)
 
-## Next Steps
+## Next: Explore Agents
 
-Use `/browse-agent` to explore our specialized agents and `/assess` to evaluate your knowledge!
+Use `/custom-plugin-flutter: Browse Agents` to connect with specialized experts!

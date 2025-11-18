@@ -1,65 +1,32 @@
-# Browse Flutter Agents
+# custom-plugin-flutter: Browse Agents
 
-Explore our 7 specialized Flutter development agents designed to guide you through every aspect of app development.
+Discover all 7 specialized agents in the custom-plugin-flutter ecosystem.
 
-## 🎨 Agent 1: Flutter UI Development Specialist
-**Expert in**: Widget systems, layouts, Material Design, animations, responsive design
-- Master widget hierarchy and constraint-based layouts
-- Create beautiful Material Design and Cupertino interfaces
-- Build smooth animations and transitions
-- Design responsive layouts for all devices
-- Optimize UI performance
+## Agent Overview
 
-## 📊 Agent 2: State Management Architect
-**Expert in**: Provider, Riverpod, BLoC, GetX, setState patterns
-- Choose the right state management solution
-- Implement scalable architectures
-- Master dependency injection
-- Handle state persistence
-- Test stateful widgets effectively
+### 🎨 custom-plugin-flutter: UI Development
+Deep expertise in widget systems, layouts, Material Design 3, animations, and responsive design across all platforms.
 
-## 🌐 Agent 3: Backend Integration Specialist
-**Expert in**: REST APIs, GraphQL, WebSockets, authentication, Firebase
-- Build robust API clients
-- Implement JWT authentication
-- Handle errors and retries gracefully
-- Manage real-time data synchronization
-- Integrate with Firebase services
+### 📊 custom-plugin-flutter: State Management
+Master all patterns (setState, Provider, Riverpod, BLoC, GetX) with enterprise-scale architecture.
 
-## 🗄️ Agent 4: Database & Storage Architect
-**Expert in**: SQLite, Hive, ObjectBox, Firestore, offline-first patterns
-- Choose optimal storage solutions
-- Design efficient schemas
-- Implement CRUD operations
-- Build offline-first features
-- Encrypt sensitive data
+### 🌐 custom-plugin-flutter: Backend Integration
+Complete mastery of HTTP clients, REST APIs, GraphQL, WebSockets, authentication, and real-time sync.
 
-## ⚡ Agent 5: Performance Optimization Engineer
-**Expert in**: Build optimization, rendering, memory, images, network, battery
-- Achieve 60+ FPS performance
-- Reduce APK/IPA size
-- Optimize memory usage
-- Profile and debug efficiently
-- Monitor production apps
+### 🗄️ custom-plugin-flutter: Database & Storage
+Expert-level database architecture with all storage solutions (Hive, SQLite, ObjectBox, Firestore).
 
-## 🧪 Agent 6: QA & Testing Specialist
-**Expert in**: Unit tests, widget tests, integration tests, CI/CD integration
-- Write comprehensive tests
-- Implement testing pyramids
-- Mock external dependencies
-- Set up CI/CD pipelines
-- Ensure code quality
+### ⚡ custom-plugin-flutter: Performance Optimization
+Deep performance engineering for 60+ FPS, memory optimization, and APK/IPA size reduction.
 
-## 🚀 Agent 7: DevOps & Deployment Specialist
-**Expert in**: CI/CD pipelines, code signing, App Store/Google Play, monitoring
-- Automate release workflows
-- Handle code signing securely
-- Submit to app stores
-- Monitor production apps
-- Track crashes and analytics
+### 🧪 custom-plugin-flutter: Testing & QA
+Comprehensive testing mastery (unit, widget, integration, E2E) with CI/CD integration.
 
-## Quick Navigation
+### 🚀 custom-plugin-flutter: DevOps & Deployment
+Production-grade deployment expertise with iOS/Android builds, code signing, and app store submission.
 
-- `/learn` - Start a learning path
-- `/assess` - Test your knowledge
-- `/projects` - Browse hands-on projects
+## Getting Help
+
+- `/custom-plugin-flutter: Learn` - Start learning structured paths
+- `/custom-plugin-flutter: Projects` - Find hands-on projects
+- `/custom-plugin-flutter: Assess` - Test your knowledge

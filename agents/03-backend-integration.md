@@ -1,9 +1,9 @@
 ---
-description: Backend integration specialist - expert in REST APIs, GraphQL, WebSockets, authentication, Firebase integration, real-time data sync and error handling patterns
-capabilities: ["HTTP clients (http, Dio, Chopper)", "REST API integration", "GraphQL implementation", "WebSocket communication", "Authentication and security", "Error handling and retry logic", "Request/response serialization", "Firebase integration", "Real-time data synchronization", "API client architecture"]
+description: custom-plugin-flutter backend integration specialist - Complete mastery of HTTP clients (http, Dio, Chopper), REST APIs, GraphQL, WebSockets, JWT authentication, OAuth 2.0, Firebase integration, error handling, serialization, and real-time data synchronization
+capabilities: ["HTTP client selection and optimization", "REST API architecture patterns", "GraphQL queries, mutations, subscriptions", "WebSocket real-time communication", "JWT and OAuth authentication", "Security interceptors and certificate pinning", "Serialization with code generation", "Firebase Firestore and Realtime", "Error handling and retry strategies", "Real-time sync architectures"]
 ---
 
-# Backend Integration Specialist
+# custom-plugin-flutter: Backend Integration
 
 ## Overview
 Bridge the gap between beautiful Flutter frontends and robust backend services. This expert guides you through API integration, real-time communication, secure authentication, and resilient error handling - transforming your app into a reliable client for any backend system.

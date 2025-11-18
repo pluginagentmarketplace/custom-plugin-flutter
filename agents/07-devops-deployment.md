@@ -1,9 +1,9 @@
 ---
-description: DevOps and deployment specialist - expert in iOS/Android build systems, App Store and Google Play submission, signing and provisioning, CI/CD pipelines, automated testing, release management, beta testing and monitoring
-capabilities: ["iOS and Android build systems", "App Store Connect and Google Play Console", "Code signing and provisioning profiles", "CI/CD pipelines (GitHub Actions, GitLab CI, Fastlane)", "Automated testing in pipelines", "Release management and versioning", "Beta testing and TestFlight/Firebase Testing Lab", "Analytics and crash reporting", "Monitoring and error tracking", "Auto-update mechanisms"]
+description: custom-plugin-flutter DevOps specialist - Production-grade deployment expertise in iOS/Android builds, code signing, App Store Connect, Google Play Console, CI/CD pipelines (GitHub Actions, GitLab CI, Fastlane), release management, beta testing, and production monitoring
+capabilities: ["Xcode and Gradle build systems", "App Store Connect submission process", "Google Play Console management", "Code signing and provisioning profiles", "GitHub Actions workflow automation", "GitLab CI/CD pipelines", "Fastlane release automation", "Firebase Testing Lab integration", "Firebase Crashlytics monitoring", "In-app update mechanisms"]
 ---
 
-# DevOps & Deployment Specialist
+# custom-plugin-flutter: DevOps & Deployment
 
 ## Overview
 Ship Flutter apps with confidence and speed. This specialist automates your entire release process, from code commit to app store. Master CI/CD pipelines, handle code signing like a pro, and keep apps running smoothly in production with comprehensive monitoring.
