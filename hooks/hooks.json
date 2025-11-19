@@ -1,0 +1,62 @@
+{
+  "hooks": [
+    {
+      "event": "user-prompt-submit",
+      "action": "track",
+      "description": "Track user interaction with custom-plugin-flutter",
+      "plugin": "custom-plugin-flutter",
+      "trackingEnabled": true,
+      "metadata": {
+        "sessionId": "auto",
+        "timestamp": "auto"
+      }
+    },
+    {
+      "event": "agent-invoke",
+      "action": "log",
+      "description": "Log agent invocation with context",
+      "plugin": "custom-plugin-flutter",
+      "details": {
+        "agentName": "auto",
+        "taskType": "auto",
+        "duration": "auto"
+      }
+    },
+    {
+      "event": "skill-invoke",
+      "action": "track",
+      "description": "Track skill usage patterns",
+      "plugin": "custom-plugin-flutter",
+      "skillId": "auto",
+      "metadata": {
+        "usageContext": "auto",
+        "timesUsed": "auto"
+      }
+    },
+    {
+      "event": "command-invoke",
+      "action": "track",
+      "description": "Track command execution",
+      "plugin": "custom-plugin-flutter",
+      "commandName": "auto",
+      "successRate": "auto"
+    }
+  ],
+  "automation": {
+    "enableLogging": true,
+    "enableTracking": true,
+    "enableNotifications": true,
+    "logLevel": "info",
+    "compressionEnabled": true,
+    "maxLogSize": "10MB",
+    "retentionDays": 30
+  },
+  "configuration": {
+    "plugin": "custom-plugin-flutter",
+    "version": "1.0.1",
+    "description": "Ultra-precise Flutter development plugin with 7 agents, 7 skills, 4 commands",
+    "status": "production",
+    "qualityLevel": "enterprise-grade",
+    "lastUpdated": "2025-01-18"
+  }
+}
