@@ -1,0 +1,15 @@
+solutions:
+  simple:
+    - setState
+    - ValueNotifier
+  intermediate:
+    - Provider
+    - Riverpod
+  advanced:
+    - BLoC
+    - GetX
+    - Redux
+patterns:
+  - single_source_of_truth
+  - immutability
+  - reactive_streams

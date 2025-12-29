@@ -1,3 +1,9 @@
+---
+name: browse-agent
+description: custom-plugin-flutter: Browse Agents
+allowed-tools: Read
+---
+
 # custom-plugin-flutter: Browse Agents
 
 **Expert Specialists** - 7 deep-diving agents covering all aspects of Flutter development.

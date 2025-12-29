@@ -1,0 +1,13 @@
+http:
+  packages:
+    - dio
+    - http
+    - retrofit
+apis:
+  - rest
+  - graphql
+  - grpc
+auth:
+  - jwt
+  - oauth2
+  - firebase_auth

@@ -1,0 +1,20 @@
+widgets:
+  stateless:
+    - Container
+    - Text
+    - Icon
+    - Image
+  stateful:
+    - TextField
+    - ListView
+    - AnimatedWidget
+layouts:
+  - Column
+  - Row
+  - Stack
+  - GridView
+  - CustomScrollView
+theming:
+  - material_3
+  - cupertino
+  - custom_theme

@@ -1,0 +1,13 @@
+local:
+  - shared_preferences
+  - hive
+  - sqflite
+  - drift
+cloud:
+  - firestore
+  - supabase
+  - amplify
+patterns:
+  - repository
+  - caching
+  - offline_first

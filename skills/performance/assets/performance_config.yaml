@@ -1,0 +1,13 @@
+metrics:
+  - frame_rate
+  - memory_usage
+  - startup_time
+  - app_size
+tools:
+  - devtools
+  - firebase_performance
+  - sentry
+optimization:
+  - const_widgets
+  - lazy_loading
+  - image_caching

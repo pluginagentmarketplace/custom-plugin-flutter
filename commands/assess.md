@@ -1,3 +1,9 @@
+---
+name: assess
+description: custom-plugin-flutter: Assess
+allowed-tools: Read
+---
+
 # custom-plugin-flutter: Assess
 
 **Knowledge Assessment** - Evaluate your Flutter expertise and identify growth areas.

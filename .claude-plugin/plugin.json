@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Industrial-grade Flutter development plugin with 7 specialized agents covering UI, state management, backend integration, database design, performance optimization, testing, and DevOps. Production-ready code examples, 25+ projects, 10,500+ lines of expert content.",
   "author": "Custom Plugin Development Team",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
     "url": "https://github.com/pluginagentmarketplace/custom-plugin-flutter.git"
@@ -145,8 +145,22 @@
     "topicsCovered": 50,
     "learningHours": 1000,
     "expertiseLevel": "production-ready",
-    "supportedFlutterVersions": ["3.0+", "3.16+"],
-    "supportedPlatforms": ["iOS", "Android", "Web", "Desktop"],
-    "tags": ["enterprise", "production", "comprehensive", "hands-on", "best-practices"]
+    "supportedFlutterVersions": [
+      "3.0+",
+      "3.16+"
+    ],
+    "supportedPlatforms": [
+      "iOS",
+      "Android",
+      "Web",
+      "Desktop"
+    ],
+    "tags": [
+      "enterprise",
+      "production",
+      "comprehensive",
+      "hands-on",
+      "best-practices"
+    ]
   }
 }

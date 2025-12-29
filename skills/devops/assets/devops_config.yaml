@@ -1,0 +1,13 @@
+ci_cd:
+  - github_actions
+  - codemagic
+  - bitrise
+  - fastlane
+distribution:
+  - play_store
+  - app_store
+  - firebase_distribution
+environments:
+  - dev
+  - staging
+  - prod

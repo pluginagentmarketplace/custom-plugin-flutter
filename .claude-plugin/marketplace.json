@@ -1,0 +1,15 @@
+{
+  "name": "pluginagentmarketplace-flutter",
+  "owner": {
+    "name": "Plugin Agent Marketplace",
+    "email": "pluginagentmarketplace@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "custom-plugin-flutter",
+      "source": "./",
+      "description": "Claude Code plugin for flutter development",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,3 +1,9 @@
+---
+name: learn
+description: custom-plugin-flutter: Learn
+allowed-tools: Read
+---
+
 # custom-plugin-flutter: Learn
 
 **Structured Learning Paths** - Master Flutter development at your pace with curated learning journeys.

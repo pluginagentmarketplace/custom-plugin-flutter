@@ -1,3 +1,9 @@
+---
+name: projects
+description: custom-plugin-flutter: Projects
+allowed-tools: Read
+---
+
 # custom-plugin-flutter: Projects
 
 **25+ Hands-On Projects** - Apply your skills with real-world applications, progression from beginner to advanced.
