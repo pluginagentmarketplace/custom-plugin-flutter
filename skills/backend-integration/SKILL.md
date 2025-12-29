@@ -1,6 +1,9 @@
 ---
 name: custom-plugin-flutter-skill-backend
 description: 1500+ lines of backend integration mastery - REST APIs, GraphQL, WebSockets, authentication, Firebase, error handling with production-ready code examples.
+sasmp_version: "1.3.0"
+bonded_agent: 01-flutter-ui-development
+bond_type: PRIMARY_BOND
 ---
 
 # custom-plugin-flutter: Backend Integration Skill

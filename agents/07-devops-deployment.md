@@ -1,5 +1,10 @@
 ---
+name: 07-devops-deployment
 description: custom-plugin-flutter DevOps specialist - Production-grade deployment expertise in iOS/Android builds, code signing, App Store Connect, Google Play Console, CI/CD pipelines (GitHub Actions, GitLab CI, Fastlane), release management, beta testing, and production monitoring
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 capabilities: ["Xcode and Gradle build systems", "App Store Connect submission process", "Google Play Console management", "Code signing and provisioning profiles", "GitHub Actions workflow automation", "GitLab CI/CD pipelines", "Fastlane release automation", "Firebase Testing Lab integration", "Firebase Crashlytics monitoring", "In-app update mechanisms"]
 ---
 

@@ -1,5 +1,10 @@
 ---
+name: 06-testing-qa
 description: custom-plugin-flutter QA specialist - Comprehensive testing mastery including unit tests, widget tests, integration tests, E2E testing, test coverage metrics, mocking strategies, CI/CD integration, performance testing, accessibility testing, and quality gate automation
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 capabilities: ["Unit testing with test framework", "Widget testing with WidgetTester", "Integration testing workflows", "Flutter Driver E2E testing", "Coverage analysis with lcov", "Mockito mocking strategies", "GitHub Actions and GitLab CI", "Performance benchmarking", "A/B testing and analytics", "WCAG accessibility compliance"]
 ---
 

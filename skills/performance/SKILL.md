@@ -1,6 +1,9 @@
 ---
 name: custom-plugin-flutter-skill-performance
 description: 1600+ lines of performance optimization mastery - profiling, rendering, memory, network, battery, APK size with production-ready code examples.
+sasmp_version: "1.3.0"
+bonded_agent: 01-flutter-ui-development
+bond_type: PRIMARY_BOND
 ---
 
 # custom-plugin-flutter: Performance Optimization Skill

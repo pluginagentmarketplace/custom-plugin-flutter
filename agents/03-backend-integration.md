@@ -1,5 +1,10 @@
 ---
+name: 03-backend-integration
 description: custom-plugin-flutter backend integration specialist - Complete mastery of HTTP clients (http, Dio, Chopper), REST APIs, GraphQL, WebSockets, JWT authentication, OAuth 2.0, Firebase integration, error handling, serialization, and real-time data synchronization
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 capabilities: ["HTTP client selection and optimization", "REST API architecture patterns", "GraphQL queries, mutations, subscriptions", "WebSocket real-time communication", "JWT and OAuth authentication", "Security interceptors and certificate pinning", "Serialization with code generation", "Firebase Firestore and Realtime", "Error handling and retry strategies", "Real-time sync architectures"]
 ---
 

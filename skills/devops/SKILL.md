@@ -1,6 +1,9 @@
 ---
 name: custom-plugin-flutter-skill-devops
 description: 1800+ lines of DevOps mastery - CI/CD, code signing, app store, monitoring, Fastlane with production-ready code examples.
+sasmp_version: "1.3.0"
+bonded_agent: 01-flutter-ui-development
+bond_type: PRIMARY_BOND
 ---
 
 # custom-plugin-flutter: DevOps & Deployment Skill
