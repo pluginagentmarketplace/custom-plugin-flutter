@@ -1,7 +1,8 @@
 ---
 name: custom-plugin-flutter-skill-ui
 description: 1700+ lines of Flutter UI mastery - widgets, layouts, Material Design, animations, responsive design with production-ready code examples and enterprise patterns.
-sasmp_version: "1.3.0"
+sasmp_version: "2.0.0"
+eqhm_version: "1.1.0"
 bonded_agent: 01-flutter-ui-development
 bond_type: PRIMARY_BOND
 ---

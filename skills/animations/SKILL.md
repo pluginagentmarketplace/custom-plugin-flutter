@@ -1,7 +1,8 @@
 ---
 name: animations
 description: Flutter animations from implicit to custom animations
-sasmp_version: "1.3.0"
+sasmp_version: "2.0.0"
+eqhm_version: "1.1.0"
 bonded_agent: 01-flutter-ui-development
 bond_type: PRIMARY_BOND
 ---

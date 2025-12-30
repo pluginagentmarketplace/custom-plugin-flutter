@@ -1,7 +1,8 @@
 ---
 name: accessibility
 description: Flutter accessibility features and screen reader support
-sasmp_version: "1.3.0"
+sasmp_version: "2.0.0"
+eqhm_version: "1.1.0"
 bonded_agent: 06-testing-qa
 bond_type: PRIMARY_BOND
 ---

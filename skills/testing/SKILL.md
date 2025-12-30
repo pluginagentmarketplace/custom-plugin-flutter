@@ -1,8 +1,9 @@
 ---
 name: custom-plugin-flutter-skill-testing
 description: 1600+ lines of testing mastery - unit tests, widget tests, integration tests, E2E, coverage, mocking with production-ready code examples.
-sasmp_version: "1.3.0"
-bonded_agent: 01-flutter-ui-development
+sasmp_version: "2.0.0"
+eqhm_version: "1.1.0"
+bonded_agent: 06-testing-qa
 bond_type: PRIMARY_BOND
 ---
 

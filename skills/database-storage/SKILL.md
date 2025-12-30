@@ -1,8 +1,9 @@
 ---
 name: custom-plugin-flutter-skill-database
 description: 1800+ lines of database architecture mastery - SQLite, Hive, ObjectBox, Firestore, encryption, offline-first, sync with production-ready code examples.
-sasmp_version: "1.3.0"
-bonded_agent: 01-flutter-ui-development
+sasmp_version: "2.0.0"
+eqhm_version: "1.1.0"
+bonded_agent: 04-database-storage
 bond_type: PRIMARY_BOND
 ---
 

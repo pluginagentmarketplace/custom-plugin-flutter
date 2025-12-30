@@ -1,8 +1,9 @@
 ---
 name: custom-plugin-flutter-skill-state
 description: 2300+ lines of state management mastery - all patterns (Provider, Riverpod, BLoC, GetX), dependency injection, persistence, testing with production-ready code examples.
-sasmp_version: "1.3.0"
-bonded_agent: 01-flutter-ui-development
+sasmp_version: "2.0.0"
+eqhm_version: "1.1.0"
+bonded_agent: 02-state-management
 bond_type: PRIMARY_BOND
 ---
 
