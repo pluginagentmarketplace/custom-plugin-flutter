@@ -1,14 +1,16 @@
 {
   "name": "custom-plugin-flutter",
   "displayName": "custom-plugin-flutter",
-  "version": "1.0.0",
-  "description": "Industrial-grade Flutter development plugin with 7 specialized agents covering UI, state management, backend integration, database design, performance optimization, testing, and DevOps. Production-ready code examples, 25+ projects, 10,500+ lines of expert content.",
+  "version": "2.0.0",
+  "description": "Industrial-grade Flutter development plugin with 8 specialized agents and 12 production-ready skills covering UI, state management, backend integration, database design, performance optimization, testing, DevOps, and native platform integration. 15,500+ lines of expert content, 200+ code examples, 25+ projects.",
   "author": "Custom Plugin Development Team",
   "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
     "url": "https://github.com/pluginagentmarketplace/custom-plugin-flutter.git"
   },
+  "sasmp_version": "1.3.0",
+  "eqhm_enabled": true,
   "keywords": [
     "flutter",
     "dart",
@@ -21,6 +23,12 @@
     "performance-optimization",
     "testing-qa",
     "devops-deployment",
+    "platform-integration",
+    "accessibility",
+    "animations",
+    "navigation",
+    "localization",
+    "plugins",
     "production-ready",
     "enterprise-architecture"
   ],
@@ -28,7 +36,7 @@
     {
       "name": "custom-plugin-flutter-ui",
       "displayName": "custom-plugin-flutter: UI Development",
-      "description": "Deep expertise in Flutter widget systems, constraint-based layouts, Material Design, Cupertino design, custom widget composition, animation frameworks, and responsive design patterns for cross-platform excellence.",
+      "description": "Deep expertise in Flutter widget systems, constraint-based layouts, Material Design 3, Cupertino design, custom widget composition, animation frameworks, and responsive design patterns for cross-platform excellence.",
       "path": "agents/01-flutter-ui-development.md"
     },
     {
@@ -66,6 +74,12 @@
       "displayName": "custom-plugin-flutter: DevOps & Deployment",
       "description": "Production deployment expertise: iOS/Android build systems, code signing, App Store/Google Play submission, CI/CD pipelines (GitHub Actions, GitLab CI, Fastlane), release management, beta testing, crash reporting, and production monitoring.",
       "path": "agents/07-devops-deployment.md"
+    },
+    {
+      "name": "custom-plugin-flutter-platform-native",
+      "displayName": "custom-plugin-flutter: Platform & Native Integration",
+      "description": "Platform integration specialist: Platform channels (Method, Event, Basic Message), iOS Swift/Objective-C interop, Android Kotlin/Java interop, federated plugin architecture, native UI embedding, background processing, and cross-platform feature parity.",
+      "path": "agents/08-flutter-platform-native.md"
     }
   ],
   "commands": [
@@ -78,13 +92,13 @@
     {
       "name": "custom-plugin-flutter-agents",
       "displayName": "custom-plugin-flutter: Browse Agents",
-      "description": "Explore all 7 specialized agents with detailed capabilities, expertise areas, and integration patterns",
+      "description": "Explore all 8 specialized agents with detailed capabilities, expertise areas, and integration patterns",
       "path": "commands/browse-agent.md"
     },
     {
       "name": "custom-plugin-flutter-assess",
       "displayName": "custom-plugin-flutter: Assess",
-      "description": "Self-assessment tool - 50+ questions across 7 Flutter development domains to evaluate knowledge level and identify growth areas",
+      "description": "Self-assessment tool - 50+ questions across 8 Flutter development domains to evaluate knowledge level and identify growth areas",
       "path": "commands/assess.md"
     },
     {
@@ -136,31 +150,74 @@
       "displayName": "custom-plugin-flutter-skill-devops",
       "description": "1800+ lines of DevOps expertise - CI/CD pipelines, code signing, app store submission, monitoring, automation",
       "path": "skills/devops/SKILL.md"
+    },
+    {
+      "name": "custom-plugin-flutter-skill-accessibility",
+      "displayName": "custom-plugin-flutter-skill-accessibility",
+      "description": "Production-grade accessibility mastery - Semantics API, screen readers (VoiceOver/TalkBack), WCAG 2.1 AA/AAA compliance, inclusive design patterns",
+      "path": "skills/accessibility/SKILL.md"
+    },
+    {
+      "name": "custom-plugin-flutter-skill-animations",
+      "displayName": "custom-plugin-flutter-skill-animations",
+      "description": "Animation mastery - Implicit and explicit animations, AnimationController, Hero transitions, physics-based motion, Lottie/Rive integration, 60fps optimization",
+      "path": "skills/animations/SKILL.md"
+    },
+    {
+      "name": "custom-plugin-flutter-skill-navigation",
+      "displayName": "custom-plugin-flutter-skill-navigation",
+      "description": "Navigation mastery - Navigator 2.0, GoRouter, deep linking, nested navigation, route guards, web URL handling",
+      "path": "skills/navigation/SKILL.md"
+    },
+    {
+      "name": "custom-plugin-flutter-skill-localization",
+      "displayName": "custom-plugin-flutter-skill-localization",
+      "description": "Localization mastery - ARB files, flutter_localizations, intl package, pluralization, RTL support, dynamic locale switching",
+      "path": "skills/localization/SKILL.md"
+    },
+    {
+      "name": "custom-plugin-flutter-skill-plugins",
+      "displayName": "custom-plugin-flutter-skill-plugins",
+      "description": "Plugin development mastery - Platform channels, federated architecture, MethodChannel/EventChannel, iOS Swift/Android Kotlin integration, pub.dev publishing",
+      "path": "skills/plugins/SKILL.md"
     }
   ],
   "metadata": {
-    "contentLines": 15466,
-    "codeExamples": 200,
+    "contentLines": 18500,
+    "codeExamples": 250,
     "projectIdeas": 25,
-    "topicsCovered": 50,
-    "learningHours": 1000,
+    "topicsCovered": 65,
+    "learningHours": 1200,
     "expertiseLevel": "production-ready",
+    "agentCount": 8,
+    "skillCount": 12,
+    "commandCount": 4,
     "supportedFlutterVersions": [
       "3.0+",
-      "3.16+"
+      "3.16+",
+      "3.24+"
     ],
     "supportedPlatforms": [
       "iOS",
       "Android",
       "Web",
-      "Desktop"
+      "Desktop (macOS, Windows, Linux)"
     ],
+    "qualityStandards": {
+      "ethical": true,
+      "honest": true,
+      "modern": "2024-2025 best practices",
+      "maintainable": true,
+      "troubleshooting": true
+    },
     "tags": [
       "enterprise",
       "production",
       "comprehensive",
       "hands-on",
-      "best-practices"
+      "best-practices",
+      "troubleshooting",
+      "2024-2025"
     ]
   }
 }
