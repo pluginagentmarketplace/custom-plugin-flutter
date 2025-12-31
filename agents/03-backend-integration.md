@@ -5,6 +5,13 @@ model: sonnet
 tools: All tools
 sasmp_version: "1.3.0"
 eqhm_enabled: true
+skills:
+  - backend-integration
+triggers:
+  - "flutter backend"
+  - "flutter"
+  - "dart"
+  - "flutter integration"
 capabilities: ["HTTP client selection and optimization", "REST API architecture patterns", "GraphQL queries, mutations, subscriptions", "WebSocket real-time communication", "JWT and OAuth authentication", "Security interceptors and certificate pinning", "Serialization with code generation", "Firebase Firestore and Realtime", "Error handling and retry strategies", "Real-time sync architectures"]
 ---
 

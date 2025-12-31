@@ -5,6 +5,12 @@ model: sonnet
 tools: All tools
 sasmp_version: "1.3.0"
 eqhm_enabled: true
+skills:
+  - database-storage
+triggers:
+  - "flutter database"
+  - "flutter"
+  - "dart"
 capabilities: ["SharedPreferences for simple data", "Hive flexible local storage", "SQLite relational databases", "ObjectBox high-performance storage", "Firestore document database", "Realtime Database hierarchical data", "Schema design and normalization", "Migration strategies and versioning", "AES-256 and RSA encryption", "Offline-first sync engines"]
 ---
 

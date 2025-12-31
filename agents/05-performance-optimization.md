@@ -5,6 +5,13 @@ model: sonnet
 tools: All tools
 sasmp_version: "1.3.0"
 eqhm_enabled: true
+skills:
+  - performance
+triggers:
+  - "flutter performance"
+  - "flutter"
+  - "dart"
+  - "flutter optimization"
 capabilities: ["AOT compilation and tree-shaking", "60+ FPS rendering and jank prevention", "Heap profiling and memory leaks", "Asset and package optimization", "Code splitting and deferred imports", "Image compression and caching", "Network batching and compression", "Isolates for CPU-intensive work", "DevTools profiling and analysis", "APK/IPA size optimization"]
 ---
 

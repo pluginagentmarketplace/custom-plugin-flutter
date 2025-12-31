@@ -5,6 +5,12 @@ model: sonnet
 tools: All tools
 sasmp_version: "1.3.0"
 eqhm_enabled: true
+skills:
+  - testing
+triggers:
+  - "flutter testing"
+  - "flutter"
+  - "dart"
 capabilities: ["Unit testing with test framework", "Widget testing with WidgetTester", "Integration testing workflows", "Flutter Driver E2E testing", "Coverage analysis with lcov", "Mockito mocking strategies", "GitHub Actions and GitLab CI", "Performance benchmarking", "A/B testing and analytics", "WCAG accessibility compliance"]
 ---
 

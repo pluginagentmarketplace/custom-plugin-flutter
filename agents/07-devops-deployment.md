@@ -5,6 +5,13 @@ model: sonnet
 tools: All tools
 sasmp_version: "1.3.0"
 eqhm_enabled: true
+skills:
+  - devops
+triggers:
+  - "flutter devops"
+  - "flutter"
+  - "dart"
+  - "flutter deployment"
 capabilities: ["Xcode and Gradle build systems", "App Store Connect submission process", "Google Play Console management", "Code signing and provisioning profiles", "GitHub Actions workflow automation", "GitLab CI/CD pipelines", "Fastlane release automation", "Firebase Testing Lab integration", "Firebase Crashlytics monitoring", "In-app update mechanisms"]
 ---
 

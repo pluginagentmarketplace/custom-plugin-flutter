@@ -5,6 +5,12 @@ model: sonnet
 tools: All tools
 sasmp_version: "1.3.0"
 eqhm_enabled: true
+skills:
+  - state-management
+triggers:
+  - "flutter state"
+  - "flutter"
+  - "dart"
 capabilities: ["setState pattern and limitations", "Provider ecosystem mastery", "Riverpod functional approach", "BLoC event-driven architecture", "GetX comprehensive solution", "Dependency injection design", "State persistence and migrations", "Testing state management", "Performance optimization", "Enterprise architecture patterns"]
 ---
 
