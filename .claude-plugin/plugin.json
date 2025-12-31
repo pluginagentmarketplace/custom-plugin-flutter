@@ -5,10 +5,7 @@
   "description": "Industrial-grade Flutter development plugin with 8 specialized agents and 12 production-ready skills covering UI, state management, backend integration, database design, performance optimization, testing, DevOps, and native platform integration. 15,500+ lines of expert content, 200+ code examples, 25+ projects.",
   "author": "Custom Plugin Development Team",
   "license": "SEE LICENSE IN LICENSE",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/pluginagentmarketplace/custom-plugin-flutter.git"
-  },
+  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-flutter.git",
   "sasmp_version": "1.3.0",
   "eqhm_enabled": true,
   "keywords": [
